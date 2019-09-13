@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConvertorLibrary", "RomanConvertorLibrary\RomanConvertorLibrary.csproj", "{433AB15D-B25B-4098-8337-9FBD604F431F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanConvertorLibraryTests", "RomanConvertorLibraryTests\RomanConvertorLibraryTests.csproj", "{872DF017-5F07-418C-B6A5-59A52E8AA489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433AB15D-B25B-4098-8337-9FBD604F431F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433AB15D-B25B-4098-8337-9FBD604F431F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433AB15D-B25B-4098-8337-9FBD604F431F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433AB15D-B25B-4098-8337-9FBD604F431F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872DF017-5F07-418C-B6A5-59A52E8AA489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872DF017-5F07-418C-B6A5-59A52E8AA489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872DF017-5F07-418C-B6A5-59A52E8AA489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872DF017-5F07-418C-B6A5-59A52E8AA489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5781B5B-4DAC-4900-AC47-C7A56FD36511}
+	EndGlobalSection
+EndGlobal
